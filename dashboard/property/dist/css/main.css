@@ -3882,7 +3882,7 @@ input{
     padding-left: 25px;
 	margin-right:20px;
     cursor: pointer;
-	margin-top:10px;
+	/* margin-top:10px; */
     line-height: 20px;
     display: inline-block;
     color: #808080;
@@ -4976,7 +4976,7 @@ input[type=button]:hover{
 }
 .inputer_form{
 	display: inline-block;
-	
+	width: 100%;
 	margin-right: .6%;
 	color: #111;
 	position:relative;
@@ -8831,7 +8831,7 @@ width: 80%;
 	
 	.form_inputs_c [type="radio"]:checked + label, [type="radio"]:not(:checked) + label {
     display: block;
-   margin-bottom: 20px;
+   /* margin-bottom: 20px; */
 }
 	
 	.c_section2, .contact_section{
