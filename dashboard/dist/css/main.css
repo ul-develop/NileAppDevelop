@@ -4671,8 +4671,7 @@ top: 109px;
 
 .uploader{
 	position: relative;
-	width: 100%;
-	
+	width: calc(100% - 2px);
 }
 
 .uploader2{
