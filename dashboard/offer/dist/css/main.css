@@ -5029,10 +5029,10 @@ input[type=button]:hover{
 .form2{
 	border: 1px solid #aaa;
 	outline: none;
-	height: 18px;
+	height: 16px;
 	width: 100%;
 	color:#808080;
-	margin-bottom: 10px;
+	margin-bottom: 0px;
 	text-indent: 10px;
 	padding-top: 5px;
 	padding-bottom: 5px;
