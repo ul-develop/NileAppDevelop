@@ -3909,10 +3909,10 @@ input{
     content: '';
     width: 9.5px;
     height: 9.5px;
-    background: #111;
+    background: #44b07b;
     position: absolute;
     top: 4px;
-    left: 5.1px;
+    left: 5.4px;
     border-radius: 100%;
     -webkit-transition: all 0.2s ease;
     transition: all 0.2s ease;
