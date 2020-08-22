@@ -4904,7 +4904,7 @@ input[type=button]:hover{
 .b_texts{
 	font-size: 15.2px;
 	line-height: 26px;
-	max-width: 600px;
+	/* max-width: 600px; */
 	color: #808080;
 	width: 90%;
 	margin-bottom: 40px;
