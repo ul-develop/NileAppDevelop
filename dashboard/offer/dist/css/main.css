@@ -3341,6 +3341,13 @@ textarea:focus, input:focus{
 	width: 65px;
 }
 
+.m_logo #badge {
+	color: white;
+	font-family: "Gilroy-SemiBold";
+	font-size: 13px;
+	font-weight: 500;
+}
+
 	#hamburger{
 	width: 25px;
 	position: absolute;
@@ -6851,23 +6858,36 @@ font-size: 16px;
 	max-width: 500px;
 	
 }
-	
-	
 
-	.m_texts{
+.m_texts{
 	width: 75%;
 	font-size: 13px;
 	line-height: 17px;
 }
 	
-	.login_menu{
+.login_menu{
 	font-size: 13px;
-
 }
 	
-	.logo{
-	
-	width: 86px;
+.logo{
+	width: 250px;
+}
+
+.logo img{
+	width: 100%;
+	max-width: 86px;
+}
+
+.logo #badge{
+	display: inline-block;
+	height: 100%;
+	color: white;
+	margin-left: 30px;
+	padding: 5px 20px;
+	background-color: #44b07b;
+	font-family: "Gilroy-SemiBold";
+	font-size: 13px;
+	font-weight: 500;
 }
 	
 	.menu{
