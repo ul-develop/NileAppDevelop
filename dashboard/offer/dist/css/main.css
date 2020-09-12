@@ -6369,6 +6369,27 @@ width: 100%;
 	max-width: 375px;
 }
 
+.logo{
+	width: 250px;
+}
+
+.logo img{
+	width: 100%;
+	max-width: 86px;
+}
+
+.logo #badge{
+	display: inline-block;
+	height: 100%;
+	color: white;
+	margin-left: 30px;
+	padding: 5px 20px;
+	background-color: #44b07b;
+	font-family: "Gilroy-SemiBold";
+	font-size: 13px;
+	font-weight: 500;
+}
+
 @media screen and (max-width:1600px) {
 	
 	.hiw_title{
@@ -6867,27 +6888,6 @@ font-size: 16px;
 	
 .login_menu{
 	font-size: 13px;
-}
-	
-.logo{
-	width: 250px;
-}
-
-.logo img{
-	width: 100%;
-	max-width: 86px;
-}
-
-.logo #badge{
-	display: inline-block;
-	height: 100%;
-	color: white;
-	margin-left: 30px;
-	padding: 5px 20px;
-	background-color: #44b07b;
-	font-family: "Gilroy-SemiBold";
-	font-size: 13px;
-	font-weight: 500;
 }
 	
 	.menu{
