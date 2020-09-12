@@ -3346,6 +3346,7 @@ textarea:focus, input:focus{
 	font-family: "Gilroy-SemiBold";
 	font-size: 13px;
 	font-weight: 500;
+	cursor: pointer;
 }
 
 	#hamburger{
@@ -6370,7 +6371,7 @@ width: 100%;
 }
 
 .logo{
-	width: 250px;
+	width: 500px;
 }
 
 .logo img{
@@ -6379,15 +6380,8 @@ width: 100%;
 }
 
 .logo #badge{
-	display: inline-block;
-	height: 100%;
-	color: white;
-	margin-left: 30px;
-	padding: 5px 20px;
-	background-color: #44b07b;
-	font-family: "Gilroy-SemiBold";
-	font-size: 13px;
-	font-weight: 500;
+	margin-left: 100px;
+	padding: 5px;
 }
 
 @media screen and (max-width:1600px) {
