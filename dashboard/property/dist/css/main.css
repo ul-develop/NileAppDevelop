@@ -1964,8 +1964,8 @@ font-size: 42px;
 
 
 .logins{
-	padding-top: 80px;
-	min-height: 100vh;
+	padding-top: 100px;
+	min-height: 70vh;
 	width: 90%;
 	margin-left: auto;
 	margin-right: auto;
@@ -3480,13 +3480,13 @@ background: white;
 }
 
 .stickit{
-	 position: -webkit-sticky;
-  position: sticky;
-  top: 95px;
+	position: -webkit-sticky;
+  	position: sticky;
+  	top: 95px;
 	width: 104%;
 	margin-left: -2%;
 	background:white;
-	z-index:1000;
+	z-index:800;
 	padding-bottom:30px;
 }
 
@@ -6376,7 +6376,7 @@ width: 100%;
 
 .logo img{
 	width: 100%;
-	max-width: 86px;
+	max-width: 75px;
 }
 
 .logo #badge{
