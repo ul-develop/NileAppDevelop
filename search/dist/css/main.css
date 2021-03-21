@@ -4617,24 +4617,25 @@ opacity: .3;
 #filt2 .home_icon{
 	width: 10%;
 }
-	.right_side_overs{
-		width: 82%;
-		padding-left: 10px;
-		padding-right: 10px;
-		z-index: 150;
-		margin-left: auto;
-		margin-right: auto;
-		padding-top: 35px;
-		padding-bottom: 30px;
-		background: white;
-		position: relative;
-		overflow: auto;
-		margin-top: 0px;
-		display: flex;
-		flex-wrap: wrap;
-		justify-content: space-between;
-		
-	}
+
+.right_side_overs{
+	width: 82%;
+	padding-left: 10px;
+	padding-right: 10px;
+	z-index: 150;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 35px;
+	padding-bottom: 30px;
+	background: white;
+	position: relative;
+	overflow: auto;
+	margin-top: 0px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
 .fixed_filter_menu{
 	position: fixed;
     background: white;
@@ -8210,7 +8211,7 @@ max-width: 650px;
 }
 	
 	.save_btn, .prev_btn, .next_btn, .submit_btn{
-		width: 100%;
+		/* width: 100%; */
 		display: block;
 		margin-bottom: 15px;
 		max-width: 350px;
