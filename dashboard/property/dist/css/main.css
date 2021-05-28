@@ -2542,7 +2542,7 @@
        position: -webkit-sticky;
        position: sticky;
        top: 19px;
-       z-index: 10001;
+       z-index: 1000;
        pointer-events: none;
    }
 
